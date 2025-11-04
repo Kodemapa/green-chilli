@@ -1,0 +1,7 @@
+{
+  "name": "Green Chilli Disease Detection",
+  "description": "An AI-powered web application that analyzes images of green chilli leaves to detect diseases. Users can either upload an image or capture one using their webcam. The app uses Google's Gemini API to identify potential diseases like Leaf Curl, Blight, or Leaf Spot, and determines if the plant is healthy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
